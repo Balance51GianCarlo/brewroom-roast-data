@@ -1,6 +1,48 @@
 {
   "version": 1,
-  "beans": [],
+  "beans": [
+    {
+      "id": "b256558884",
+      "name": "Esmilda Sembrera",
+      "country": "Peru",
+      "region": "Cajamarca",
+      "variety": [
+        "Pink Bourbon"
+      ],
+      "processing": "Anaerobic Washed",
+      "roasterName": "Kaffelogic Nano 7",
+      "roastLevel": "Light",
+      "flavorNotes": [],
+      "userRating": null,
+      "tastingNotes": "",
+      "notes": "",
+      "farm": "",
+      "altitude": "",
+      "harvestYear": "",
+      "purchaseDate": null,
+      "priceAmount": null,
+      "priceCurrency": "",
+      "weightGrams": null,
+      "purchaseSource": "",
+      "cuppingScore": null,
+      "acidity": "",
+      "bodyDesc": "",
+      "sweetness": "",
+      "aftertaste": "",
+      "recommendedBrew": [],
+      "certifications": [],
+      "isDecaf": false,
+      "moisturePercent": null,
+      "waterActivity": null,
+      "density": null,
+      "screenSize": null,
+      "defectCount": null,
+      "adjustmentGrams": null,
+      "hasPhoto": false,
+      "createdAt": "2026-05-12T20:54:16.558Z",
+      "updatedAt": "2026-05-12T20:54:16.558Z"
+    }
+  ],
   "profiles": [],
   "logs": []
 }
